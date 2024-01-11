@@ -26,3 +26,5 @@ The content in this repository is for educational purposes only. The APSU Cybers
 If you have any questions, suggestions, or concerns, feel free to reach out to any officers though our [Discord](https://discord.gg/UgbmBG3A)
 
 Happy hacking and learning!
+
+![APSU-CSC-Logo](https://github.com/APSUCyberClub/TryHackMe-Writeups/assets/156336307/8ec0f9b2-04ee-4cfe-8db4-7b5f3cde3caf)
